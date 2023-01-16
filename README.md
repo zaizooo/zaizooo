@@ -5,33 +5,27 @@
 <br/>
 <br/>
   
-- Name **Reidho Satria**
+- Name **Saizuoo**
 
-- Live in **Palembang, Indonesia**
+- Live in **VN - GMT+8**
 
 - Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
 
-- Good with **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
+- Good with **PHP** , **Bash** ,**HTML** and **LUA**
 
-- Have high experience with **Photoshop** and **CorelDRAW**
+- Have high experience with **After Effects** and **CorelDRAW**
   
-- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
+- Familiar with **Ubuntu**, **Linux**
 
-- Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
+- Understand English (Fluent)
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
   
-- 📗 [***Elliottophellia/ayano***](https://github.com/Elliottophellia/ayano) <br/>
-  A multipurpose bot for anything with 69 commands!
-- 📘 [***Elliottophellia/kyoko***](https://github.com/Elliottophellia/kyoko) <br/>
-  Random anime pictures and quotes API, Toshino Kyoko.
-- 📙 [***Elliottophellia/ophellia***](https://github.com/Elliottophellia/ophellia) <br/>
-  A simple webshell build in PHP 7.4 for penetration testing and educational purposes only.
-- 📒 [***Elliottophellia/mocha***](https://github.com/Elliottophellia/mocha) <br/>
-  A discord selfbot designed to bumping disboard.org every 2 hours.
+- 📗 [***zaizoo/DiscordWebhook***](https://github.com/Elliottophellia/ayano) <br/>
+  A Simple Libary For Discord Webhook(PHP)
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
